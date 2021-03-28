@@ -1,0 +1,9 @@
+.container-center {
+  display: grid;
+  justify-content: center;
+  grid-template-rows: 400px;
+}
+
+.autocomplete {
+  align-self: center;
+}
